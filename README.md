@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hai</h1>
-<h3 align="center">AI Engineer Intern from Viet Nam</h3>
+<h3 align="center">AI Engineer from Viet Nam</h3>
 
 - 🔭 I’m currently working on **Da Nang University of Science and Technology**
 
